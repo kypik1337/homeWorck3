@@ -5,7 +5,7 @@ import java.util.Random;
 
 public class homeWorck3 {
     public static void main(String[] args) {
-        ex2();
+        // Вводи метод 1 или 2 для ответов на дз
 
     }
     static void ex2(){
